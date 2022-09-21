@@ -1,9 +1,9 @@
-<h1>Sistema</h1>
+# Sistema
 
 > Status do projeto: Em desenvolvimento
 
 Para rodar esse projeto na sua maquina, digite:
 
 ``` 
-npm install react
+node app.js
 ```
